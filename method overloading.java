@@ -12,6 +12,6 @@ public static void main(String args[])
 {
 Add a1=new Add();
 a1.add(3,6);
-a1.add(3,5,6);
+a1.add(4,5,6);
 }
 }
